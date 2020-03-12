@@ -16,7 +16,6 @@ class CurrencyServiceProvider extends ServiceProvider
 	 *
 	 * @return void
 	 */
-
 	 public function register()
 	{
 		//
@@ -27,7 +26,6 @@ class CurrencyServiceProvider extends ServiceProvider
 	 *
 	 * @return void
 	 */
-
 	 public function boot()
 	{
 		$this->publishes([
