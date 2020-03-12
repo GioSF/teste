@@ -1,0 +1,12 @@
+{
+    "name": "kamego/currencies",
+    "description": "Laravel package to provide information about currencies",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Giovanni Stroppa",
+            "email": "giosfdev@gmail.com"
+        }
+    ],
+    "require": {}
+}
